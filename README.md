@@ -85,7 +85,7 @@ Learning through practice, projects, and consistent building.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalkhamkar51&bg_color=0f172a&color=e2e8f0&line=38bdf8&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="90%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalkhamkar51&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="90%" alt="GitHub contribution activity"/>
 
 </div>
 
