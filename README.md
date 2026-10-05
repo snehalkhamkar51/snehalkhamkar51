@@ -83,9 +83,9 @@ Learning through practice, projects, and consistent building.
 
 **Building consistently, one commit at a time.**
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehalkhamkar51&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="90%" alt="GitHub contribution activity"/>
+<img src="https://ghchart.rshah.org/38bdf8/snehalkhamkar51" alt="GitHub contribution activity" width="90%"/>
 
 </div>
 
